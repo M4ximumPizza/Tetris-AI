@@ -1,0 +1,4 @@
+src/main.py player
+src/main.py greedy
+src/main.py mcts
+src/main.py genetic
